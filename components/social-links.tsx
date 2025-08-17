@@ -14,7 +14,7 @@ export function SocialLinks({ className }: SocialLinksProps) {
     },
     {
       name: "LinkedIn",
-      url: "https://www.linkedin.com/in/pushpam-choudhary-b12953370/",
+      url: "https://www.linkedin.com/in/pushpam-pallavi-393b272a5/",
       icon: <Linkedin className="h-5 w-5" />,
     },
     {
