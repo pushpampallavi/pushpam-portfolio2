@@ -14,8 +14,8 @@ const projects = [
       "A machine learning model that predicts the likelihood of breast cancer based on patient data.",
     image: "/brest.png?height=400&width=600",
     tags: ["TypeScript", "Next.js", "Node.js", "MongoDB" , "Python" , "Machine Learning"],
-    liveUrl: "https:///", // replace with actual if available
-    githubUrl: "https://github.com/", // replace with actual
+    liveUrl: "https://", // replace with actual if available
+    githubUrl: "https://github.com/pushpampallavi/breastcancer", // replace with actual
     completion: 80,
   },
   {
@@ -25,8 +25,8 @@ const projects = [
       "An e-commerce website that allows users to buy and sell products online.",
     image: "/ecommerce.png?height=400&width=600",
     tags: ["React.js", "TypeScript", "Tailwind CSS", "Framer Motion"],
-    liveUrl: "https://", // replace with actual if available
-    githubUrl: "https://github.com/", // replace with actual
+    liveUrl: "https://anon-ecommerce-lemon.vercel.app/", // replace with actual if available
+    githubUrl: "https://github.com/pushpampallavi/anon-ecommerce", // replace with actual
     completion: 100,
   },
 ]
