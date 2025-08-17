@@ -22,14 +22,14 @@ export default function Footer() {
           <div className="flex flex-col items-center gap-4 md:items-end">
             <div className="flex gap-4">
               <a
-                href="https://www.github.com/pushpampallavi"
+                href="https://github.com/pushpampallavi"
                 className="flex h-10 w-10 items-center justify-center rounded-full border border-foreground/10 transition-colors hover:border-foreground/30 hover:text-primary"
                 aria-label="GitHub"
               >
                 <Github className="h-5 w-5" />
               </a>
               <a
-                href="https://www.linkedin.com/in/pushpam-pallavi/"
+                href="https://www.linkedin.com/in/pushpam-choudhary-b12953370/"
                 className="flex h-10 w-10 items-center justify-center rounded-full border border-foreground/10 transition-colors hover:border-foreground/30 hover:text-primary"
                 aria-label="LinkedIn"
               >
