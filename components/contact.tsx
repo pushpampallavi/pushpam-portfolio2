@@ -125,7 +125,7 @@ export default function Contact() {
                     <Github className="h-5 w-5" />
                   </a>
                   <a
-                    href="https://www.linkedin.com/in/pushpampallavi/"
+                    href="https://www.linkedin.com/in/pushpam-choudhary-b12953370/"
                     className="flex h-10 w-10 items-center justify-center rounded-full border border-foreground/10 transition-colors hover:border-foreground/30 hover:text-primary"
                     aria-label="LinkedIn"
                   >
